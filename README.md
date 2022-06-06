@@ -23,8 +23,8 @@ img2 = cv2.imread('/content/gdrive/My Drive/Colab Notebooks/graph_bar.png', cv2.
 
 ('재무제표_2021.csv', '재무제표_2020.csv', '재무제표_2019.csv', '종목코드.csv', 'graph_bar.png', 'bar-01.png', 'bar-02.png', 'bar-03.png', 'bar-04.png', 'bar-05.png')
 
-모두 구글 드라이브의 Colab Notebooks 폴더에 있어야 한다.
-
+모두 구글 드라이브의 Colab Notebooks 폴더에 있어야 한다.  
+<br/>
 + ### 프로그램 실행 시 유의사항
 
 #### 1. 프로그램 실행 시간
